@@ -7,6 +7,7 @@ import threading
 import subprocess
 from ctypes import windll
 from queue import Queue 
+#
 
 url = "https://api.gx.me/profile/token"
 num_urls = int(input('Star https://github.com/TheCuteOwl/Discord-Nitro-Generator for making this script (If you skid, give credit ;)\nHow many nitros do you want to generate: '))
